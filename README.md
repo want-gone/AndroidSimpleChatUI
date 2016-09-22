@@ -1,0 +1,2 @@
+# AndroidSimpleChatUI
+ListView实现的一个简单的聊天界面
