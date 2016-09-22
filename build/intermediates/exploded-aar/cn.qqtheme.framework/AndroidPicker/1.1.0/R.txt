@@ -1,0 +1,7 @@
+int drawable color_picker_cursor_bottom 0x7f020000
+int drawable color_picker_cursor_top 0x7f020001
+int drawable file_picker_file 0x7f020002
+int drawable file_picker_folder 0x7f020003
+int drawable file_picker_home 0x7f020004
+int drawable file_picker_updir 0x7f020005
+int style Animation_Popup 0x7f030000
